@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mgall13
-- 👀 I’m interested in ... becoming a full stack web developer. 
-- 🌱 I’m currently learning ... SQL 
-- 💞️ I’m looking to collaborate on ... homework and problem solving  
+- 👋 Hello, my name is Mario.
+- 👀 I’m interested in ... becoming an AMAZING full stack web developer. 
+- 🌱 I’m currently learning ... API's!
+- 💞️ I’m looking to collaborate on ... anything and everything available.   
 - 📫 How to reach me ...
 
 <!---
